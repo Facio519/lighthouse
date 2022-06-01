@@ -1,3 +1,17 @@
+<a name="9.6.2"></a>
+# 9.6.2 (2022-06-01)
+[Full Changelog](https://github.com/compare/v9.6.1...v9.6.2)
+
+We expect this release to ship in the DevTools of [Chrome 104](https://chromiumdash.appspot.com/schedule), and to PageSpeed Insights within 2 weeks.
+
+## Report
+
+* avoid really slow regexes for data urls ([#13791](https://github.com/GoogleChrome/lighthouse/pull/13791))
+
+## Tests
+
+* devtools: sync web tests ([#14061](https://github.com/GoogleChrome/lighthouse/pull/14061))
+
  <a name="9.6.1"></a>
 # 9.6.1 (2022-05-11)
 [Full Changelog](https://github.com/compare/v9.6.0...v9.6.1)

@@ -3,7 +3,7 @@
   "private": true,
   "main": "./plugin.js",
   "peerDependencies": {
-    "lighthouse": "^9.6.1"
+    "lighthouse": "^9.6.2"
   },
   "devDependencies": {
     "lighthouse": "^8.6.0"
